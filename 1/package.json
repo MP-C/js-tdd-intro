@@ -1,0 +1,11 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quest1.js",
+  "scripts": {
+    "test": "npm run quest1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
